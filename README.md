@@ -1,16 +1,20 @@
-## Hi there 👋
+Учусь на 4 курсе ИГУ (ИМИТ), направление «Прикладная информатика», профиль — проектирование и разработка информационных систем. Интересуюсь аналитикой данных и статистикой, ищу практику и стажировку аналитиком.
 
-<!--
-**KurbatovK/KurbatovK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Чем занимаюсь
 
-Here are some ideas to get you started:
+Анализ данных и проверка гипотез: Python, pandas, SciPy, statsmodels, A/B-тесты, доверительные интервалы
+Проектирование и разработка информационных систем: Java/Spring Boot, React, PostgreSQL
+SQL и работа с данными
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Проекты по анализу данных
+
+ab-test-gamification — оценка A/B-теста геймификации на образовательной платформе: очистка данных, SRM, Retention и Completion, сегменты по классам, рекомендация для бизнеса
+titanic-survival-analysis — разведочный анализ и проверка гипотез на данных Titanic
+
+Проекты по разработке
+
+fitness-club-management-system — веб-приложение для фитнес-клуба: отчёты, дашборд, роли доступа (Spring Boot + React)
+TelegramBot — Telegram-бот для поиска расписания (Python, aiogram), командный проект
+redux — менеджер задач на React и Redux Toolkit
+
+Связаться: kurbatov-2005@bk.ru
